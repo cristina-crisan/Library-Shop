@@ -1,0 +1,294 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "description": "The haunting story centers on twelve-year-old Jonas, who lives in a seemingly ideal, if colorless, world of conformity and contentment. Not until he is given his life assignment as the Receiver of Memory does he begin to understand the dark, complex secrets behind his fragile community. ",
+      "year": "1993",
+      "imageUrl": "/images/the-giver.jpg",
+      "genre": "Dystopian",
+      "price": 38.5
+    },
+    {
+      "id": 2,
+      "title": "Cloud Atlas",
+      "author": "David Mitchell",
+      "description": "A postmodern visionary who is also a master of styles and genres, David Mitchell combines flat-out adventure, a Nabokovian love of puzzles, a keen eye for character, and a taste for mind-bending philosophical and scientific speculation in the tradition of Haruki Murakami, Umberto Eco, and Philip K. Dick. The result is brilliantly original fiction that reveals how disparate people connect, how their fates intertwine, and how their souls drift across time like clouds across the sky. ",
+      "year": "2004",
+      "imageUrl": "/images/cloud-atlas.jpg",
+      "genre": "Dystopian",
+      "price": 42.33
+    },
+    {
+      "id": 3,
+      "title": "An Ember in the Ashes",
+      "author": "Sabaa Tahir",
+      "description": "Laia is a slave. Elias is a soldier. Neither is free.Under the Martial Empire, defiance is met with death. Those who do not vow their blood and bodies to the Emperor risk the execution of their loved ones and the destruction of all they hold dear.",
+      "year": "2004",
+      "imageUrl": "/images/ember-in-the-ashes.jpg",
+      "genre": "Dystopian",
+      "price": 85.99
+    },
+    {
+      "id": 4,
+      "title": "The Hunger Games ",
+      "author": "Suzanne Collins",
+      "description": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games.",
+      "year": "2008",
+      "imageUrl": "/images/hunger-games.jpg",
+      "genre": "Dystopian",
+      "price": 95.99
+    },
+    {
+      "id": 5,
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "description": "Anderson Lake is a company man, AgriGen's Calorie Man in Thailand. Under cover as a factory manager, Anderson combs Bangkok's street markets in search of foodstuffs thought to be extinct, hoping to reap the bounty of history's lost calories. There, he encounters Emiko...",
+      "year": "2009",
+      "imageUrl": "/images/windup-girl.jpg",
+      "genre": "Dystopian",
+      "price": 35.99
+    },
+    {
+      "id": 6,
+      "title": "The Golden Compass",
+      "author": "Philip Pullman ",
+      "description": "Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal—including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world.",
+      "year": "1995",
+      "imageUrl": "/images/golden-compass.jpg",
+      "genre": "Fantasy",
+      "price": 52.23
+    },
+    {
+      "id": 7,
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "description": " Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister and supernatural forces are massing beyond the kingdom’s protective Wall. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a land of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens.",
+      "year": "1996",
+      "imageUrl": "/images/game-of-thrones.jpg",
+      "genre": "Fantasy",
+      "price": 65.99
+    },
+    {
+      "id": 9,
+      "title": "Throne of Glass",
+      "author": "Sarah J. Maas",
+      "description": "The story follows the journey of Celaena Sardothien, a teenage assassin in a corrupt kingdom with a tyrannical ruler, The King of Adarlan. As the tale progresses, Celaena forms unexpected bonds and uncovers a conspiracy amidst her adventures",
+      "imageUrl": "/images/throne-of-glass.jpg",
+      "genre": "Fantasy",
+      "price": 45.5
+    },
+    {
+      "id": 10,
+      "title": "Lady Midnight",
+      "author": "Cassandra Clare",
+      "description": "It’s been five years since the events of City of Heavenly Fire that brought the Shadowhunters to the brink of oblivion. Emma Carstairs is no longer a child in mourning, but a young woman bent on discovering what killed her parents and avenging her losses.",
+      "year": "2016",
+      "imageUrl": "/images/lady-midnight.jpg",
+      "genre": "Fantasy",
+      "price": 89.99
+    },
+    {
+      "id": 11,
+      "title": "Rosemary's Baby",
+      "author": "Ira Levin",
+      "description": "Rosemary and Guy Woodhouse, an ordinary young couple, settle into a New York City apartment, unaware that the elderly neighbors and their bizarre group of friends have taken a disturbing interest in them. But by the time Rosemary discovers the horrifying truth, it may be far too late!Together with her parabatai Julian Blackthorn, Emma must learn to trust her head and her heart as she investigates a demonic plot that stretches across Los Angeles, from the Sunset Strip to the enchanted sea that pounds the beaches of Santa Monica. If only her heart didn’t lead her in treacherous directions…",
+      "year": " 1967",
+      "imageUrl": "/images/rosemarys-baby.jpg",
+      "genre": "Horror",
+      "price": 23.32
+    },
+    {
+      "id": 12,
+      "title": "Pet Sematary",
+      "author": "Stephen King",
+      "description": "Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son-and now an idyllic home. As a family, they've got it all...right down to the friendly car. But the nearby woods hide a blood-chilling truth-more terrifying than death itself-and hideously more powerful. The Creeds are going to learn that sometimes dead is better.",
+      "year": 1983,
+      "imageUrl": "/images/pet-sematary.jpg",
+      "genre": "Horror",
+      "price": 44.32
+    },
+    {
+      "id": 14,
+      "title": "It",
+      "author": "Stephen King",
+      "description": "It’s a small city, a place as hauntingly familiar as your own hometown. Only in Derry the haunting is real ...They were seven teenagers when they first stumbled upon the horror. Now they are grown-up men and women who have gone out into the big world to gain success and happiness. But none of them can withstand the force that has drawn them back to Derry to face the nightmare without an end, and the evil without a name.",
+      "year": 1986,
+      "imageUrl": "/images/it.jpg",
+      "genre": "Horror",
+      "price": 35.56
+    },
+    {
+      "id": 15,
+      "title": "Bird Box",
+      "author": "Gillian Flynn",
+      "description": "Something is out there, something terrifying that must not be seen. One glimpse of it, and a person is driven to deadly violence. No one knows what it is or where it came from.",
+      "year": 2014,
+      "imageUrl": "/images/bird-box.jpg",
+      "genre": "Horror",
+      "price": 32.5
+    },
+    {
+      "id": 16,
+      "title": "Last Days",
+      "author": "Adam Nevill",
+      "description": "When guerrilla documentary maker, Kyle Freeman, is asked to shoot a film on the notorious cult known as the Temple of the Last Days, it appears his prayers have been answered. The cult became a worldwide phenomenon in 1975 when there was a massacre including the death of its infamous leader, Sister Katherine. Kyle's brief is to explore the paranormal myths surrounding an organization that became a testament to paranoia, murderous rage, and occult rituals.",
+      "year": 2012,
+      "imageUrl": "/images/last-days.jpg",
+      "genre": "Horror",
+      "price": 22.5
+    },
+    {
+      "id": 17,
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "description": "On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge.",
+      "year": 2012,
+      "imageUrl": "/images/gone-girl.jpg",
+      "genre": "Mystery",
+      "price": 41
+    },
+    {
+      "id": 18,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.",
+      "year": 2003,
+      "imageUrl": "/images/davinci-code.jpg",
+      "genre": "Mystery",
+      "price": 60
+    },
+    {
+      "id": 21,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the “spice” melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for...",
+      "year": 1965,
+      "imageUrl": "/images/dune.jpg",
+      "genre": "Science Fiction",
+      "price": 39.25
+    },
+    {
+      "id": 22,
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "description": "On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands",
+      "year": 1989,
+      "imageUrl": "/images/hyperion.jpg",
+      "genre": "Science Fiction",
+      "price": 25.69
+    },
+    {
+      "id": 23,
+      "title": "Jurassic Park",
+      "author": "Michael Crichton ",
+      "description": "An astonishing technique for recovering and cloning dinosaur DNA has been discovered. Now humankind’s most thrilling fantasies have come true. Creatures extinct for eons roam Jurassic Park with their awesome presence and profound mystery, and all the world can visit them—for a price.",
+      "year": 1990,
+      "imageUrl": "/images/jurassic-park.jpg",
+      "genre": "Science Fiction",
+      "price": 22.36
+    },
+    {
+      "id": 24,
+      "title": "Metro 2033",
+      "author": "Dmitry Glukhovsky",
+      "description": "The year is 2033. The world has been reduced to rubble. Humanity is nearly extinct. The half-destroyed cities have become uninhabitable through radiation. Beyond their boundaries, they say, lie endless burned-out deserts and the remains of splintered forests. Survivors still remember the past greatness of humankind. But the last remains of civilisation have already become a distant memory, the stuff of myth and legend.",
+      "year": 2002,
+      "imageUrl": "/images/metro.jpg",
+      "genre": "Science Fiction",
+      "price": 44.56
+    },
+    {
+      "id": 25,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.Now, he’s sure he’ll be the first person to die there.After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive",
+      "year": 2015,
+      "imageUrl": "/images/the-martian.jpg",
+      "genre": "Science Fiction",
+      "price": 32.56
+    },
+    {
+      "id": 26,
+      "title": "The Time Machine ",
+      "author": "H.G. Wells",
+      "description": "So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears.",
+      "year": 1895,
+      "imageUrl": "/images/time-machine.jpg",
+      "genre": "Science Fiction",
+      "price": 45
+    },
+    {
+      "id": 27,
+      "title": "Ender's Game ",
+      "author": "Orson Scott Card",
+      "description": "Andrew 'Ender' Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast.",
+      "year": 2013,
+      "imageUrl": "/images/enders-game.jpg",
+      "genre": "Science Fiction",
+      "price": 36.25
+    },
+    {
+      "id": 28,
+      "title": "Long Bright River",
+      "author": "Liz Moore",
+      "description": "In a Philadelphia neighborhood rocked by the opioid crisis, two once-inseparable sisters find themselves at odds. One, Kacey, lives on the streets in the vise of addiction. The other, Mickey, walks those same blocks on her police beat. They don't speak anymore, but Mickey never stops worrying about her sibling.",
+      "year": 2020,
+      "imageUrl": "/images/long-bright-river.jpg",
+      "genre": "Thriller",
+      "price": 29
+    },
+    {
+      "id": 29,
+      "title": "In a Dark, Dark Wood",
+      "author": "Ruth Ware",
+      "description": "In a dark, dark wood...Nora hasn't seen Clare for ten years. Not since Nora walked out of school one day and never went back.",
+      "year": 2020,
+      "imageUrl": "/images/dark-wood.jpg",
+      "genre": "Thriller",
+      "price": 25.52
+    },
+    {
+      "id": 30,
+      "title": "Hidden Bodies",
+      "author": "Caroline Kepnes",
+      "description": "Joe Goldberg is no stranger to hiding bodies. In the past ten years, this thirty-something has buried four of them, collateral damage in his quest for love. Now he’s heading west to Los Angeles, the city of second chances, determined to put his past behind him.",
+      "year": 2016,
+      "imageUrl": "/images/hidden-bodies.jpg",
+      "genre": "Thriller",
+      "price": 41.25
+    },
+    {
+      "id": 31,
+      "title": "You",
+      "author": "Paula Hawkins",
+      "description": "When a beautiful aspiring writer strides into the East Village bookstore where Joe Goldberg works, he does what anyone would do: he Googles the name on her credit card. There is only one Guinevere Beck in New York City. She has a public Facebook account and Tweets incessantly, telling Joe everything he needs to know: she is simply Beck to her friends, she went to Brown University, she lives on Bank Street, and she’ll be at a bar in Brooklyn tonight—the perfect place for a “chance” meeting.",
+      "year": 2014,
+      "imageUrl": "/images/you.jpg",
+      "genre": "Thriller",
+      "price": 45.5
+    },
+    {
+      "id": 32,
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "description": "Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train.",
+      "year": 2015,
+      "imageUrl": "/images/girl-on-the-train.jpg",
+      "genre": "Thriller",
+      "price": 25.56
+    },
+    {
+      "id": 33,
+      "title": "The Last Wish",
+      "author": "Andrzej Sapkowski",
+      "description": "Geralt is a Witcher, a man whose magic powers, enhanced by long training and a mysterious elixir,have made him a brilliant fighter and a merciless assassin. Yet he is no ordinary murderer: his targets are the multifarious monsters and vile fiends that ravage the land and attack the innocent.But not everything monstrous-looking is evil and not everything fair is good...and in every fairy tale there is a grain of truth.",
+      "year": 2015,
+      "imageUrl": "/images/witcher.jpg",
+      "genre": "Fantasy",
+      "price": 77.7
+    }
+  ],
+  "cart": []
+}

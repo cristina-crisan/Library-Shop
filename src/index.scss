@@ -1,0 +1,14 @@
+@import "assets/styles/main.scss";
+
+body {
+  background-color: $background;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a,
+button {
+  cursor: pointer;
+}

@@ -1,0 +1,62 @@
+@import "../../assets/styles/variables";
+
+.cart-wrapper {
+  margin-right: 50px;
+
+  @media only screen and (max-width: 766px) {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
+.cart-content {
+  background-color: $light-blue;
+  max-width: 260px;
+  min-width: 260px;
+  padding: 20px;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.3);
+
+  @media only screen and (max-width: 766px) {
+    max-width: 100%;
+  }
+
+  &.sticky {
+    position: sticky;
+    top: 70px;
+  }
+
+  .contact {
+    margin-bottom: 10px;
+
+    p {
+      font-size: 14px;
+      color: $gray;
+      font-family: $second-font;
+      margin-bottom: 30px;
+    }
+  }
+
+  .cart-header {
+    margin-bottom: 10px;
+    color: $white;
+
+    i {
+      padding-right: 10px;
+    }
+  }
+
+  .total {
+    color: $white;
+    text-align: right;
+  }
+}
+
+.cart-items {
+  .empty-cart {
+    text-align: center;
+    font-family: $second-font;
+    color: $gray;
+    padding: 50px;
+    border: 1px dashed $white;
+  }
+}

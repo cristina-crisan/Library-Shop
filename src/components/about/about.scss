@@ -1,0 +1,24 @@
+@import "../../assets/styles/variables";
+
+.about {
+  max-width: 670px;
+  min-height: 450px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 130px;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.3);
+  background-color: $white;
+
+  &-header {
+    align-self: center;
+  }
+
+  i {
+    padding: 25px;
+    border: 1px solid #164fac;
+    border-radius: 50%;
+    color: #164fac;
+  }
+}

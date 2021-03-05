@@ -1,0 +1,11 @@
+@import "../../assets/styles/variables";
+
+.search {
+  background-color: #f5f5f5;
+
+  a i {
+    display: inline-block;
+    padding: 30px;
+    color: $black;
+  }
+}

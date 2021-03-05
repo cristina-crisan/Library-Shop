@@ -1,0 +1,33 @@
+@import "../../assets/styles/variables";
+
+.header {
+  border-bottom: 1px solid $gray;
+
+  &-logo {
+    font-size: 26px;
+  }
+
+  &-wrapper {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0 5px;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    align-items: center;
+  }
+
+  &-actions {
+    display: flex;
+    align-items: baseline;
+
+    nav {
+      .link {
+        display: inline-block;
+        padding: 10px;
+        color: $black;
+        font-weight: 600;
+      }
+    }
+  }
+}
