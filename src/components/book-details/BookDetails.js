@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import "./book-details.scss";
 
-const BookDetails = ({ onSelectBook }) => {
+const BookDetails = ({    onUpdateCart }) => {
   const { id } = useParams();
   const [book, setBook] = useState(null);
 
@@ -14,8 +14,17 @@ const BookDetails = ({ onSelectBook }) => {
       })
   }, [id])
 
-  function addToCart() {
-    onSelectBook(book);
+  function addToCart(book) {
+    fetch('http://localhost:8000/cart', {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(book)
+    }).then(() => {
+      onUpdateCart();
+    })
+ 
   }
 
   return (
@@ -29,7 +38,7 @@ const BookDetails = ({ onSelectBook }) => {
           <p> Price: {book && book.price} lei</p>
         </div>
         <div className="add-button">
-          <button onClick={addToCart}>Add</button>
+          <button onClick={() => addToCart(book)}>Add</button>
         </div>
       </div>
       <div className="book-image">

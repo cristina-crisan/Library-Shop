@@ -290,5 +290,16 @@
       "price": 77.7
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "id": 12,
+      "title": "Pet Sematary",
+      "author": "Stephen King",
+      "description": "Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son-and now an idyllic home. As a family, they've got it all...right down to the friendly car. But the nearby woods hide a blood-chilling truth-more terrifying than death itself-and hideously more powerful. The Creeds are going to learn that sometimes dead is better.",
+      "year": 1983,
+      "imageUrl": "/images/pet-sematary.jpg",
+      "genre": "Horror",
+      "price": 44.32
+    }
+  ]
 }

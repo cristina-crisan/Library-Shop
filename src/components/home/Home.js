@@ -7,14 +7,14 @@ import { useState } from 'react';
 
 const Home = () => {
 
-  const [book, setBook] = useState(null);
+  const [updateStatusCart, setUpdateStatusCart] = useState(null);
 
   return (
     <div className="home">
-      <Cart selectedBook={book} afterCartDelete={() => { setBook(null) }}> </Cart>
+      <Cart updateStatusCart={updateStatusCart} afterCartDelete={() => { setUpdateStatusCart(null) }}> </Cart>
       <Switch>
         <Route exact path="/books/:id" >
-          <BookDetails onSelectBook={(selectedBook) => { setBook(selectedBook) }} ></BookDetails>
+          <BookDetails    onUpdateCart={() => { setUpdateStatusCart(true) }} ></BookDetails>
         </Route>
         <Route path="/" component={Books} />
       </Switch>

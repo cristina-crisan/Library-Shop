@@ -2,27 +2,14 @@ import './cart.scss';
 import { useEffect, useState } from 'react';
 import CartItem from '../cart-item/CartItem';
 
-const Cart = ({ selectedBook, afterCartDelete }) => {
+const Cart = ({ updateStatusCart, afterCartDelete }) => {
   const [cart, setCart] = useState(null);
   const [total, setTotal] = useState(null);
-  useState(selectedBook);
+  useState(updateStatusCart);
 
   useEffect(() => {
-    if (selectedBook && cart.every(cartBook => cartBook.id !==
-      selectedBook.id)) {
-      fetch('http://localhost:8000/cart', {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify(selectedBook)
-      }).then(() => {
         getCart();
-      })
-    } else {
-      getCart();
-    }
-  }, [selectedBook]);
+  }, [updateStatusCart]);
 
   function calculateTotal(responeData) {
     let total = responeData.reduce((total, currentValue) => total += currentValue.price, 0).toFixed(2);
